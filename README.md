@@ -19,7 +19,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=a855f7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Siddhitapase20&color=a855f7&style=for-the-badge)
 
 </div>
 
@@ -51,27 +51,27 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddhitapase20&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhitapase20&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ## 🔥 GitHub Power-Ups
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhitapase20&theme=radical&hide_border=true" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhitapase20&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Siddhitapase20/Siddhitapase20/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 > ⚙️ Snake needs one-time setup — see below.
@@ -85,9 +85,6 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 </a>
 <a href="mailto:siddhitapase1@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </div>
