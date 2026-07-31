@@ -2,9 +2,11 @@
 
 <img src="./assets/banner.png" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F2328&center=true&vCenter=true&width=700&lines=Hello+there%2C+I'm+Siddhi+Tapase+%F0%9F%91%8B" alt="Typing SVG" />
+<p style="font-size:28px;">
+<b style="color:#F5F5F5;font-family:monospace;">Hello there, </b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=F5F5F5&center=true&vCenter=true&width=350&repeat=true&lines=I'm+Siddhi+Tapase+%F0%9F%91%8B" alt="Typing SVG" style="vertical-align:middle;"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=1F2328&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer+%7C+Gen+AI+Enthusiast+%7C+Cloud+Computing" alt="Typing SVG" />
+<b style="color:#F5F5F5;font-family:monospace;font-size:20px;">AI &amp; ML Developer | Gen AI Enthusiast | Cloud Computing</b>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+GenAI+Developer;AI%2FML+Enthusiast;Cloud+Computing+Explorer" alt="Typing SVG" />
 
@@ -15,39 +17,33 @@
 An **AI/ML Enthusiast** working across **Generative AI** and **Cloud Computing**.
 I am dedicated to building solutions that make a difference in the tech world and beyond!
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=a855f7&style=for-the-badge)
+
+</div>
+
 ---
 
 ## 🛠️ The Arsenal
 
 **🔥 Languages & Core**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 **🧠 AI/ML & Data Science**
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, **Embedding Models**, **LangChain**
 
 **⚡ Frameworks & Development**
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 **🛠️ Tools & Infrastructure**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
 ---
 
@@ -58,8 +54,12 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" />
+</div>
 
+## 🔥 GitHub Power-Ups
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" />
 </div>
 
 ## 📈 Contribution Graph
@@ -95,9 +95,5 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=a855f7&style=for-the-badge)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer"/>
-
 </div>
