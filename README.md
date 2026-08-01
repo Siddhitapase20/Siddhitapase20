@@ -54,12 +54,6 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 
 </div>
 
-## 🔥 GitHub Power-Ups
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Siddhitapase20&theme=radical&hide_border=true" />
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
