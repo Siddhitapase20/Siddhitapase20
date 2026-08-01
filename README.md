@@ -2,9 +2,11 @@
 
 <img src="./assets/banner.png" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
 <h2>Hello there, <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=F5F5F5&center=true&vCenter=true&width=350&repeat=true&lines=I%27m+Siddhi+Tapase+%F0%9F%91%8B" alt="Typing SVG" align="center"/></h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=F5F5F5&center=true&vCenter=true&width=600&repeat=true&lines=AI+%26+ML+Developer+%7C+Gen+AI+Enthusiast+%7C+Cloud+Computing" alt="Typing SVG" />
+<h3>AI &amp; ML Developer | Gen AI Enthusiast | Cloud Computing</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+GenAI+Developer;AI%2FML+Enthusiast;Cloud+Computing+Explorer" alt="Typing SVG" />
 
