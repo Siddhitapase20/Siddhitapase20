@@ -2,11 +2,9 @@
 
 <img src="./assets/banner.png" width="100%"/>
 
-<p style="font-size:28px;">
-<b style="color:#F5F5F5;font-family:monospace;">Hello there, </b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=F5F5F5&center=true&vCenter=true&width=350&repeat=true&lines=I'm+Siddhi+Tapase+%F0%9F%91%8B" alt="Typing SVG" style="vertical-align:middle;"/>
-</p>
+<h2>Hello there, <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=F5F5F5&center=true&vCenter=true&width=350&repeat=true&lines=I%27m+Siddhi+Tapase+%F0%9F%91%8B" alt="Typing SVG" align="center"/></h2>
 
-<b style="color:#F5F5F5;font-family:monospace;font-size:20px;">AI &amp; ML Developer | Gen AI Enthusiast | Cloud Computing</b>
+<h3>AI &amp; ML Developer | Gen AI Enthusiast | Cloud Computing</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+GenAI+Developer;AI%2FML+Enthusiast;Cloud+Computing+Explorer" alt="Typing SVG" />
 
@@ -29,7 +27,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 **🔥 Languages & Core**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 **🧠 AI/ML & Data Science**
 
@@ -51,15 +49,15 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddhitapase20&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhitapase20&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhitapase20&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhitapase20&theme=github_dark" />
 
 </div>
 
 ## 🔥 GitHub Power-Ups
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhitapase20&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Siddhitapase20&theme=radical&hide_border=true" />
 </div>
 
 ## 📈 Contribution Graph
@@ -68,7 +66,7 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhitapase20&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
-## 🐍 Contribution Snake
+## ⏳ Contribution Timeline
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Siddhitapase20/Siddhitapase20/output/github-contribution-grid-snake.svg" width="100%"/>
