@@ -51,8 +51,8 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhitapase20&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhitapase20&theme=github_dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddhitapase20&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhitapase20&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
