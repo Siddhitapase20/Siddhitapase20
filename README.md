@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-<h2>Hello there, <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=F5F5F5&center=true&vCenter=true&width=350&repeat=true&lines=I%27m+Siddhi+Tapase+%F0%9F%91%8B" alt="Typing SVG" align="center"/></h2>
+<h2>Hello there, <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=EC4899&center=true&vCenter=true&width=350&repeat=true&lines=I%27m+Siddhi+Tapase+%F0%9F%91%8B" alt="Typing SVG" align="center"/></h2>
 
 <h3>AI &amp; ML Developer | Gen AI Enthusiast | Cloud Computing</h3>
 
@@ -51,8 +51,8 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Siddhitapase20&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Siddhitapase20&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Siddhitapase20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Siddhitapase20&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
