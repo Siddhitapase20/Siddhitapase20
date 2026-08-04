@@ -66,7 +66,7 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 ## ⏳ Contribution Timeline
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Siddhitapase20/Siddhitapase20/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Siddhitapase20/Siddhitapase20/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 > ⚙️ Snake needs one-time setup — see below.
@@ -80,6 +80,9 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 </a>
 <a href="mailto:siddhitapase1@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Siddhi_Tapase/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
