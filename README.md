@@ -14,9 +14,11 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student** with a strong interest in **Artificial Intelligence, Machine Learning, and Generative AI**, and a growing focus on **Cloud Computing**.
-I enjoy solving real-world problems through code, contributing to open-source projects, and constantly exploring how emerging tech — from LLMs to scalable cloud systems — can be applied to build meaningful solutions.
-Always learning, always building. 🚀
+- 🎓 Computer Science student, driven by curiosity and code
+- 🤖 Focused on **AI/ML**, **Generative AI**, and **Cloud Computing**
+- 🌱 Active open-source contributor
+- 💡 I build, break, and learn — one project at a time
+- 🚀 Always exploring what's next in tech
 
 <div align="center">
 
