@@ -14,8 +14,9 @@
 
 ## 🚀 About Me
 
-An **AI/ML Enthusiast** working across **Generative AI** and **Cloud Computing**.
-I am dedicated to building solutions that make a difference in the tech world and beyond!
+I'm a **Computer Science student** with a strong interest in **Artificial Intelligence, Machine Learning, and Generative AI**, and a growing focus on **Cloud Computing**.
+I enjoy solving real-world problems through code, contributing to open-source projects, and constantly exploring how emerging tech — from LLMs to scalable cloud systems — can be applied to build meaningful solutions.
+Always learning, always building. 🚀
 
 <div align="center">
 
