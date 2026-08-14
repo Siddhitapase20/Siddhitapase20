@@ -68,7 +68,7 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 ## ⏳ Contribution Timeline
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Siddhitapase20/Siddhitapase20/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Siddhitapase20/Siddhitapase20/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 > ⚙️ Snake needs one-time setup — see below.
