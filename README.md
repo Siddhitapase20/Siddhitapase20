@@ -59,6 +59,12 @@ Specialized: **LLMs (LLaMA, GPT)**, **RAG**, **ChromaDB**, **FAISS**, **NLP**, *
 
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Siddhitapase20&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
 ## 📈 Contribution Graph
 
 <div align="center">
